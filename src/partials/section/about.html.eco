@@ -1,6 +1,15 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
-
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p>
+5.PHP é a quarta edição do Fórum de Profissionais PHP, que acontece no Maranhão, onde estudantes, profissionais ou empresas públicas e privadas que atuam com sistemas Web, soluções e mídia em Internet, desenvolvimento em PHP, HTML, CSS e Javascript para desktop ou mobile se encontram para discutir tendências, ferramentas e melhores práticas de atuação no mercado nacional e internacional.
+</p>
+<p>
+Com foco no aumento da produtividade, estímulo ao uso de melhores práticas de desenvolvimento e incremento de segurança e usabilidade, o evento se consagra como a principal via de acesso de estudantes, empresas e profissionais ao que existe de mais moderno em metodologias e ferramentas no universo de produção para Internet.
+</p>
+<p>
+Esta quarta edição marca a maturidade de um processo de incremento gradual de qualidade do mercado nacional focado para além de nossas fronteiras, mostrando que é possível entregar software de qualidade internacional para clientes de qualquer país sem evasão de nossos talentos para outros lugares.
+</p>
+<p>
+Evento obrigatório para profissionais e estudantes dispostos a crescer tecnicamente e ampliar sua rede de contatos de qualidade.
+</p>
+<p>Seja mais. Seja melhor. Participe.</p>

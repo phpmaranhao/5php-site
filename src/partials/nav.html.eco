@@ -1,6 +1,11 @@
 <!-- NAVIGATION -->
 <nav id="nav">
   <ul class="wrapper">
+  	<li class="nav-item">
+  		<a href="#" class="nav-link">
+  			<img src="themes/yellow-swan/img/footer_logo.png" height="25px">
+  		</a>
+  	</li>
     <% for section in @sections : %>
       <li class="nav-item">
         <a href="#<%= section %>" title="<%= @labels[section] %>" class="nav-link"><%= @labels[section] %></a>
